@@ -10,7 +10,7 @@ var KARLAB;
                 * Returns true if user has System Administrator OR Schedule Manager role, otherwise false
                 */
                 function ClcikMeEnableRules() {
-                    // Get roles name from the config, hard coded here for testing.
+                    // Get roles name from the config entity, hard coded here for testing .
                     var configValue = "System Administrator,Schedule Manager";
                     return KARLAB.Utility.Common.IsUserHasRoles(configValue.split(","));
                 }
