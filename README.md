@@ -26,7 +26,7 @@ This project's aim is to build a powerful base Package Deployer template that si
   - [Word templates](#Word-templates)
     - [Import word templates](#Import-word-templates)
   - [Mailboxes](#Mailboxes)
-    - [Update Approve Test and Enable shared mailboxes](#Update-Approve-Test-and-Enable-shared-mailboxes)
+    - [Update, approve, test and enable shared mailboxes](#Update-approve-test-and-enable-shared-mailboxes)
 
 
 ## Installation
