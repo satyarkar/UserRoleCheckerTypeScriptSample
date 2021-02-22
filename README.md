@@ -171,7 +171,7 @@ You can import word templates by adding `<documenttemplate>` elements.
 
 ### Mailboxes
 
-#### Update Approve Test and Enable shared mailboxes
+#### Update, approve, test and enable shared mailboxes
 
 You can update shared mailboxes with target email address, approve and test&enable by adding `<mailboxes>` elements.
 
