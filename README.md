@@ -6,7 +6,7 @@
   
   ## Table of contents
   - [Mailboxes](#Mailboxes)
-    - [Update Approve Test and Enable shared mailboxes](#Update-Approve-Test-and-Enable-shared-mailboxes)
+    - [Update, approve, test and Enable shared mailboxes](#Update-Approve-Test-and-Enable-shared-mailboxes)
 
 
 
